@@ -1,6 +1,6 @@
 # Laravel Web-Crawler
 
-以爬蟲抓取 (click108 星座)[http://astro.click108.com.tw/] 每日星座運勢為例
+以爬蟲抓取 [click108 星座](http://astro.click108.com.tw/) 每日星座運勢為例
 
 php artisan migrate --path=/database/migrations/WebCrawler
 
